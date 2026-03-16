@@ -14,7 +14,6 @@ The goal of this repository is to maintain a structured record of my design acti
 
 ## 🛠 Tools Used
 - Figma  
-- Adobe XD  
 - Miro  
 - Notion  
 
