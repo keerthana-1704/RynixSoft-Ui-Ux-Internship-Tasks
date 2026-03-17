@@ -1,0 +1,201 @@
+# 📊 Digital Talent Management Platform  
+## Phase 1: Target User Definition & Research Synthesis  
+
+---
+
+## 📌 1. Research Overview (The "Why")
+
+To ensure design decisions are grounded in real-world user needs, a rapid competitive audit was conducted using leading HR platforms such as **Workday** and **BambooHR**, analyzing user reviews from G2 and Capterra.
+
+### 🔍 Key Market Pain Points
+
+Based on research, several recurring issues were identified across modern HR systems:
+
+- **Data Silos & Fragmentation**  
+  HR teams struggle with disconnected systems that do not integrate well, leading to inefficiency and duplicate work :contentReference[oaicite:0]{index=0}  
+
+- **Cluttered & Complex User Interfaces**  
+  Poor UX design increases cognitive load and reduces system adoption among employees :contentReference[oaicite:1]{index=1}  
+
+- **Manual & Time-Consuming Workflows**  
+  Repetitive tasks like data entry and approvals reduce productivity and increase errors :contentReference[oaicite:2]{index=2}  
+
+- **Limited Mobile Accessibility**  
+  Many systems fail to support quick, on-the-go actions for managers and employees  
+
+- **Integration & Data Synchronization Issues**  
+  Systems often fail to act as a single source of truth due to poor integration and data inconsistencies :contentReference[oaicite:3]{index=3}  
+
+---
+
+### 💡 Key Insight
+
+> Most HR platforms are **feature-rich but workflow-poor**, forcing users to adapt to the system instead of the system adapting to users.
+
+---
+
+## 👥 2. Target Users (The "Who")
+
+Based on the research, three primary user groups were identified:
+
+- **HR Administrator** → System Owner (High dependency)  
+- **Team Manager** → Decision Maker (Moderate dependency)  
+- **Employee** → End User (Low dependency)  
+
+These users form the core ecosystem of the platform, each interacting with the system differently.
+
+---
+
+## 👤 3. User Personas (5W Framework)
+
+---
+
+### 👩‍💼 Persona A: Sarah — HR Administrator
+
+> “I’m tired of jumping between five different tabs to update a single employee record.”
+
+#### Who
+Senior HR Specialist managing the full employee lifecycle (onboarding, payroll, compliance).
+
+- Tech Literacy: High  
+- System Dependency: Very High  
+
+#### What (Goals)
+- Maintain accurate employee records  
+- Generate reports and insights  
+- Streamline HR workflows  
+
+#### Where (Device)
+- Desktop (90%) → Complex workflows and reporting  
+
+#### When (Usage)
+- Daily (6–8 hours)  
+
+#### Why (Pain Points)
+- Disconnected tools causing data silos  
+- Overloaded dashboards with poor structure  
+- Limited reporting flexibility  
+- Manual and repetitive tasks  
+
+#### 💡 UX Opportunities
+- Unified dashboard (single source of truth)  
+- Advanced reporting with customization  
+- Workflow automation  
+
+---
+
+### 👨‍💼 Persona B: Marcus — Team Manager
+
+> “I need to approve leave requests instantly from my phone.”
+
+#### Who
+Mid-level manager responsible for team performance and approvals.
+
+- Tech Literacy: Moderate  
+- System Dependency: Medium  
+
+#### What (Goals)
+- Monitor team performance  
+- Approve leave requests quickly  
+- Conduct performance reviews  
+
+#### Where (Device)
+- Desktop → Detailed reviews  
+- Mobile → Quick approvals  
+
+#### When (Usage)
+- Daily (quick actions)  
+- Weekly/Monthly (reviews)  
+
+#### Why (Pain Points)
+- Poor mobile usability  
+- Too many steps for approvals  
+- Confusing dashboards  
+- Time-consuming review process  
+
+#### 💡 UX Opportunities
+- One-click approvals  
+- Mobile-first design  
+- Simplified dashboards  
+
+---
+
+### 👩‍💻 Persona C: Elena — Employee
+
+> “It should be as easy to use as Instagram.”
+
+#### Who
+Individual contributor using the system occasionally for personal HR tasks.
+
+- Tech Literacy: Moderate to High  
+- System Dependency: Low  
+
+#### What (Goals)
+- Apply for leave  
+- Check payslips and benefits  
+- Update personal details  
+
+#### Where (Device)
+- Mobile (80%)  
+
+#### When (Usage)
+- Occasional (2–3 times/month)  
+
+#### Why (Pain Points)
+- Complex navigation  
+- Lack of self-service features  
+- Too many steps for simple actions  
+- Low engagement with system :contentReference[oaicite:4]{index=4}  
+
+#### 💡 UX Opportunities
+- Self-service features  
+- Minimal, task-focused UI  
+- Quick access to key actions  
+
+---
+
+## 📱 4. Device-Based Behavior
+
+| User        | Desktop (Deep Work)              | Mobile (Quick Actions)          |
+|------------|---------------------------------|--------------------------------|
+| HR Admin   | Reports, data management        | Minimal                        |
+| Manager    | Performance reviews             | Approvals, notifications       |
+| Employee   | Rare usage                      | Leave, updates, alerts         |
+
+---
+
+## 🎯 5. UX Problem Statement
+
+> Current talent management systems are fragmented, complex, and not optimized for different user roles and devices, leading to inefficiency, low adoption, and poor user experience.
+
+---
+
+## 🚀 6. Design Strategy
+
+### 💻 Desktop Focus (Deep Work)
+- Data-heavy workflows  
+- Reporting & analytics  
+- Performance management  
+
+### 📲 Mobile Focus (Quick Actions)
+- Leave approvals  
+- Notifications  
+- Profile updates  
+
+### 🧠 Core Principle
+
+> “Right Task, Right Device”
+
+---
+
+## 💡 7. Design Opportunities
+
+- Build a **unified system (single source of truth)**  
+- Reduce cognitive load with **clean UI**  
+- Enable **mobile-first quick interactions**  
+- Automate repetitive workflows  
+- Improve **data visibility and accessibility**  
+
+---
+
+⭐ *This phase establishes a strong UX foundation by aligning user needs, business goals, and design strategy.*
