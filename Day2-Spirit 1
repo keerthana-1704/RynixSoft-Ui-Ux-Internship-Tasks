@@ -1,0 +1,151 @@
+# 👤 User Personas & Problem Statement
+
+---
+
+## 👤 2. Create Detailed User Personas
+
+---
+
+### 👩‍💼 Persona A: Sarah — HR Administrator
+
+> “I’m tired of jumping between multiple systems to manage one employee.”
+
+#### Who
+Senior HR Specialist managing recruitment, onboarding, payroll, and compliance.
+
+- **Tech Literacy:** High  
+- **System Dependency:** Very High  
+
+#### Goals
+- Manage employee data efficiently  
+- Generate reports and insights  
+- Ensure smooth HR operations  
+
+#### Behavior
+- Uses system extensively (6–8 hours daily)  
+- Works with multiple HR tools simultaneously  
+
+#### Devices
+- Desktop (Primary – 90%)
+
+#### Pain Points
+- Fragmented systems (data spread across tools)  
+- Repetitive manual processes  
+- Cluttered dashboards  
+- Limited reporting flexibility  
+
+#### Opportunity
+- Unified system with centralized data  
+- Automation of repetitive workflows  
+- Advanced reporting capabilities  
+
+---
+
+### 👨‍💼 Persona B: Marcus — Team Manager
+
+> “I need to approve requests instantly without delays.”
+
+#### Who
+Mid-level manager responsible for team performance and approvals.
+
+- **Tech Literacy:** Moderate  
+- **System Dependency:** Medium  
+
+#### Goals
+- Monitor team performance  
+- Approve leave requests quickly  
+- Conduct performance reviews  
+
+#### Behavior
+- Uses system for quick actions daily  
+- Uses desktop occasionally for detailed reviews  
+
+#### Devices
+- Desktop (reviews)  
+- Mobile (approvals & notifications)
+
+#### Pain Points
+- Poor mobile experience  
+- Too many steps for simple actions  
+- Delayed approvals  
+- Complex dashboards  
+
+#### Opportunity
+- Mobile-first quick actions  
+- Simplified workflows  
+- One-click approvals  
+
+---
+
+### 👩‍💻 Persona C: Elena — Employee
+
+> “I just want a simple and fast experience.”
+
+#### Who
+Individual contributor using the system occasionally.
+
+- **Tech Literacy:** Moderate to High  
+- **System Dependency:** Low  
+
+#### Goals
+- Apply for leave  
+- View payslips and benefits  
+- Update personal details  
+
+#### Behavior
+- Uses system occasionally (2–3 times/month)  
+- Prefers quick interactions  
+
+#### Devices
+- Mobile (Primary – 80%)
+
+#### Pain Points
+- Complex navigation  
+- Too many steps for simple tasks  
+- Low engagement with system  
+- Lack of self-service features  
+
+#### Opportunity
+- Simple and intuitive UI  
+- Self-service features  
+- Fast access to key actions  
+
+---
+
+## ⚠️ 3. Define Clear Problem Statement
+
+---
+
+### 🎯 Core Problem
+
+> Current talent management systems are fragmented, complex, and not optimized for different user roles and devices, leading to inefficiency, low adoption, and poor user experience.
+
+---
+
+### 🔎 Supporting Problems
+
+- **System Fragmentation**  
+  Multiple HR tools create disconnected workflows and data silos  
+
+- **Inefficient Workflows**  
+  Manual processes and repeated data entry reduce productivity  
+
+- **Poor User Experience**  
+  Complex interfaces increase cognitive load  
+
+- **Lack of Mobile Optimization**  
+  Managers and employees cannot perform quick tasks efficiently  
+
+---
+
+### 💡 Design Direction
+
+To solve these problems, the platform should:
+
+- Provide a **single source of truth**  
+- Reduce **cognitive load through clean UI**  
+- Enable **mobile-first quick actions**  
+- Automate repetitive tasks  
+- Improve **data visibility and accessibility**  
+
+---
