@@ -1,0 +1,79 @@
+# Digital Talent Management System – Low-Fidelity Wireframes
+
+## 📌 Overview
+This project showcases low-fidelity wireframes for a Digital Talent Management System.  
+The focus is on designing the core authentication flows to ensure a smooth and secure user experience.
+
+These wireframes were created using Figma and emphasize structure, layout, and user flow rather than visual design.
+
+---
+
+## 🎯 Features
+
+### 🔐 Login
+- Input fields:
+  - Email / Username
+  - Password
+- Actions:
+  - Login button
+  - Navigate to Sign Up
+  - Forgot Password link
+
+---
+
+### 📝 Sign Up
+- Input fields:
+  - Full Name
+  - Email Address
+  - Password
+  - Confirm Password
+- Action:
+  - Create Account button
+- Redirects to Login after successful registration
+
+---
+
+### 🔁 Forgot Password (Request Reset)
+- Input:
+  - Registered Email Address
+- Action:
+  - Send Verification Code
+
+---
+
+### 🔢 Forgot Password (Verify Code)
+- Input:
+  - OTP / Verification Code
+- Action:
+  - Verify Code
+- Handles invalid or expired codes
+
+---
+
+### 🔑 Forgot Password (Set New Password)
+- Input fields:
+  - New Password
+  - Confirm Password
+- Action:
+  - Reset Password
+- Redirects to Login after successful reset
+
+---
+
+## 🧠 Design Approach
+- Low-fidelity (Lo-Fi) wireframes
+- Focus on:
+  - User flow
+  - Layout structure
+  - Navigation clarity
+- Minimal styling (grayscale, placeholders)
+
+---
+
+## 🛠️ Tools Used
+- Figma
+
+---
+
+## 🔗 Figma File
+[https://www.figma.com/design/07cDSzk8r2oKmyccsJ6Tbr/Low-fledility---Wireframe?node-id=0-1&t=ZT5GFnS94bvn7V7j-1](#)
