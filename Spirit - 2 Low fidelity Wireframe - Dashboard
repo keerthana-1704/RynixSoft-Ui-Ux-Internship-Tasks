@@ -1,0 +1,78 @@
+# 📊 HR Admin Dashboard Wireframes
+
+## 💻 Desktop View
+The desktop dashboard is designed for comprehensive data visibility and efficient management.
+
+### 🔹 Key Sections
+
+#### 🧭 Sidebar Navigation
+- Dashboard  
+- Employees  
+- Recruitment  
+- Performance  
+- Settings  
+
+#### 📈 Dashboard Overview
+- Total Employees  
+- Active Jobs  
+- New Applications  
+- Performance Metrics  
+
+#### 📋 Employee Management
+- Employee list (table format)  
+- Search and filter options  
+- Add / Edit / Remove employees  
+
+#### 📅 Recruitment Panel
+- Job postings  
+- Candidate tracking  
+- Application status  
+
+#### 🔔 Notifications Panel
+- Alerts for new applicants  
+- System updates  
+
+---
+
+## 📱 Mobile View
+The mobile dashboard is optimized for quick access and simplified navigation.
+
+### 🔹 Key Sections
+
+#### ☰ Collapsible Menu
+- Hamburger menu for navigation  
+
+#### 📊 Summary Cards
+- Key metrics (Employees, Jobs, Applications)  
+
+#### 📋 Employee List
+- Scrollable list view  
+- Quick actions (view/edit)  
+
+#### 🔔 Notifications
+- Real-time alerts  
+
+#### ➕ Quick Actions
+- Add Employee  
+- Post Job  
+
+---
+
+## 🧠 Design Approach
+- Low-fidelity (Lo-Fi) wireframes  
+- Focus on:  
+  - Clear user flow  
+  - Functional layout  
+  - Easy navigation across devices  
+- Responsive thinking (Desktop + Mobile)  
+- Minimal styling (grayscale, placeholders)  
+
+---
+
+## 🛠️ Tools Used
+- Figma  
+
+---
+
+## 🔗 Figma File
+[View Wireframes](https://www.figma.com/design/1bnLuYAQkQ990moR02T75Q/Low-fledility---Wireframe-for-Dashboard?node-id=1-11936&t=DcFeDQW6K5t4UMhe-1)
