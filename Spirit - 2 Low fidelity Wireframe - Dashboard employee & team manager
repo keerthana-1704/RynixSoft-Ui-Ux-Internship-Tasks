@@ -1,0 +1,43 @@
+# 👥 Employee & Team Manager Dashboard Wireframes
+
+## 💻 Desktop View
+These dashboards are designed to support both employees and team managers with clear visibility, task management, and performance tracking.
+
+### 🔹 Key Sections
+- 🧭 Navigation: Dashboard, Profile/Team, Tasks, Reports, Settings  
+- 📈 Overview: Tasks summary, performance metrics, pending actions  
+- 📋 Task Management: View, update, assign, and track tasks  
+- 👥 Team / Profile: Employee details or team member management  
+- 📊 Reports: Performance insights and productivity tracking  
+- 🔔 Notifications: Alerts for updates, approvals, and deadlines  
+
+---
+
+## 📱 Mobile View
+Optimized for quick access and ease of use on mobile devices.
+
+### 🔹 Key Sections
+- ☰ Collapsible menu for navigation  
+- 📊 Summary cards (tasks, performance, updates)  
+- 📋 Task list (scrollable with quick actions)  
+- 👥 Team/Employee view  
+- 🔔 Real-time notifications  
+- ➕ Quick actions (update task, assign task, approvals)  
+
+---
+
+## 🧠 Design Approach
+- Low-fidelity (Lo-Fi) wireframes  
+- Focus on simple navigation and user flow  
+- Responsive design (Desktop + Mobile)  
+- Minimal styling (grayscale, placeholders)  
+
+---
+
+## 🛠️ Tools Used
+- Figma  
+
+---
+
+## 🔗 Figma File
+[View All Wireframes](https://www.figma.com/design/1bnLuYAQkQ990moR02T75Q/Low-fledility---Wireframe-for-Dashboard?node-id=0-1&t=6dRQMQ0QwGtEi7Pu-1)
