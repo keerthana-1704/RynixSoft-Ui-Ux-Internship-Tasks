@@ -1,0 +1,45 @@
+# ✅ Task Page – Digital Talent Management System
+
+## 💻 Desktop View
+The task page enables efficient task creation, assignment, and tracking across different user roles.
+
+### 🔹 Key Features
+- 📋 Task List: Displays tasks with status (Pending / In Progress / Completed)  
+- 🔍 Search & Filter: Filter tasks by status, priority, or user  
+- ➕ Task Actions: Create, assign, edit, and delete tasks  
+
+### 👥 Role-Based Access
+- **HR Admin**: Manage all tasks across the organization  
+- **Team Manager**: Assign tasks and track team progress  
+- **Employee**: View and update assigned tasks  
+
+- 🔔 Notifications: Alerts for updates and deadlines  
+
+---
+
+## 📱 Mobile View
+The mobile task page is designed for quick updates and easy navigation.
+
+### 🔹 Key Features
+- ☰ Collapsible menu  
+- 📋 Scrollable task list  
+- ⚡ Quick actions (update status, mark complete)  
+- 🔔 Real-time notifications  
+
+---
+
+## 🧠 Design Approach
+- Low-fidelity (Lo-Fi) wireframes  
+- Focus on task flow and role-based usability  
+- Responsive design (Desktop + Mobile)  
+- Minimal styling (grayscale, placeholders)  
+
+---
+
+## 🛠️ Tools Used
+- Figma  
+
+---
+
+## 🔗 Figma File
+[View All Wireframes](https://www.figma.com/design/1bnLuYAQkQ990moR02T75Q/Low-fledility---Wireframe?node-id=0-1&t=NOKDY6Nine9Kg9zS-1)
