@@ -1,0 +1,48 @@
+# ✅ Admin Panel – Digital Talent Management System  
+
+## 💻 Desktop View  
+The admin panel provides centralized control for managing users, roles, and system-wide settings.
+
+### 🔹 Key Features  
+- 👥 User Management: Add, edit, deactivate, or delete users  
+- 🛡️ Role & Permissions: Assign roles and manage access levels  
+- 📊 Dashboard Overview: View system metrics and activity  
+- ⚙️ System Settings: Configure workflows and platform preferences  
+- 📁 Data Management: Maintain organizational records  
+
+### 👥 Role-Based Access  
+- **HR Admin**: Full control over users, roles, and system settings  
+- **Team Manager**: Limited access (view data, manage team-level info)  
+- **Employee**: No direct access to admin panel  
+
+- 🔔 Notifications: Alerts for system updates and user activities  
+
+---
+
+## 📱 Mobile View  
+The mobile admin panel is optimized for quick monitoring and essential management tasks.
+
+### 🔹 Key Features  
+- ☰ Collapsible admin menu  
+- 📊 Simplified dashboard  
+- 👥 Quick user actions (activate/deactivate)  
+- 🔔 Real-time system notifications  
+- ⚡ Fast access to key controls  
+
+---
+
+## 🧠 Design Approach  
+- Low-fidelity (Lo-Fi) wireframes  
+- Focus on accessibility and control efficiency  
+- Responsive design (Desktop + Mobile)  
+- Minimal styling (grayscale, placeholders)  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma File  
+[View All Wireframes](https://www.figma.com/design/1bnLuYAQkQ990moR02T75Q/Low-fledility---Wireframe?node-id=0-1&t=sHuOGbWGY42zJbwr-1)
