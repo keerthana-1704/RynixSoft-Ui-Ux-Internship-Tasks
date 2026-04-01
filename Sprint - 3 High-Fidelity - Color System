@@ -1,0 +1,125 @@
+# 🎨 Color System – Digital Talent Management System  
+
+## 💻 Overview  
+The color system is designed to establish **professionalism, trust, and clear user interaction** across the platform. It ensures visual consistency while improving usability and accessibility.
+
+---
+
+## 🎯 Design Goals  
+- Build **trust and reliability** for users handling sensitive data  
+- Guide users toward **clear actions (Apply, Hire, Submit)**  
+- Maintain **consistency across all modules**  
+- Ensure **accessibility and readability**  
+
+---
+
+## 🎨 Color Palette  
+
+### 🔵 Primary Color – Blue  
+- Represents **trust, stability, and professionalism**  
+- Ideal for tech platforms handling sensitive data  
+- Used in navigation bars, headers, and key UI elements  
+- Accessible and distinguishable for most users  
+
+---
+
+### 🟠 Accent Colors – Orange / Yellow  
+- Used for **Call-To-Actions (CTA)** like Apply, Hire, Submit  
+- **Orange** → Energy, creativity, action  
+- **Yellow** → Friendliness, positivity  
+- Helps important actions stand out from the interface  
+
+---
+
+### 🟢 Semantic Colors (System Feedback)  
+
+- **Green (Success)**  
+  - Indicates completion, success, and growth  
+  - Used for successful submissions, completed tasks  
+
+- **Red (Error / Alert)**  
+  - Indicates urgency, errors, or critical actions  
+  - Darker shades used for better accessibility  
+
+- **🔵 Blue / 🟣 Purple (Information)**  
+  - Used for tooltips, info messages, and updates  
+  - Conveys clarity and sophistication  
+
+---
+
+### ⚪ Neutral Colors (Foundation)  
+
+Following the **60-30-10 rule**:
+
+- **60% – White / Light Gray**  
+  - Clean background  
+  - Reduces cognitive load  
+
+- **30% – Primary Blue**  
+  - Used for structure and layout elements  
+
+- **10% – Accent Colors**  
+  - Highlights key actions and interactions  
+
+---
+
+## 🎨 Additional Color Choices  
+
+### 🔹 Trust & Authority  
+- Steel Blue / Navy Blue → Security and professionalism  
+- Slate Gray → Modern and corporate feel  
+
+### 🔹 Growth & Success  
+- Emerald / Forest Green → Growth and achievement  
+- Mint Green → Calm and user-friendly experience  
+
+### 🔹 Action & Engagement  
+- Tangerine / Amber → Encourages user interaction  
+- Dark Red → Urgent actions with accessibility  
+
+### 🔹 Text & UI Elements  
+- Charcoal / Dark Gray (#2e2e2e)  
+  - High readability  
+  - Strong contrast on light backgrounds  
+
+---
+
+## ♿ Accessibility Considerations  
+
+- ✅ Maintain **WCAG 2.1 contrast ratio (4.5:1 minimum)**  
+- ✅ Use **dark shades for better readability**  
+- ✅ Avoid problematic combinations (Red–Green, Blue–Purple)  
+- ✅ Do not rely on color alone → always use icons/labels  
+- ✅ Test designs in grayscale for better inclusivity  
+
+---
+
+## 🧠 Design Approach  
+- Focus on **clarity, usability, and consistency**  
+- Minimal and professional color usage  
+- Supports both **desktop and mobile interfaces**  
+- Designed with **accessibility-first principles**  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma File  
+[View Color System & Wireframes](https://www.figma.com/design/8gKNEwoV0P9eA6vMK0wnCm/Design-System---DTMP?node-id=0-1&t=p4RIqReMBWR3KrBi-1)
+
+---
+
+## 📌 Summary  
+
+| Function | Colors Used | Purpose |
+|----------|------------|--------|
+| Brand Identity | Blue, Navy | Trust, Stability |
+| Success States | Green | Growth, Completion |
+| Call-To-Action | Orange, Yellow | Engagement, Action |
+| Alerts/Errors | Dark Red | Urgency |
+| Background/Text | White, Gray | Clarity, Readability |
+
+---
