@@ -1,0 +1,165 @@
+# 🔤 Typography & Spacing System – Digital Talent Management System  
+
+## 💻 Overview  
+The typography and spacing system is designed to ensure **clarity, readability, and structured layouts** across the platform. It helps users efficiently scan data-heavy interfaces like dashboards, employee records, and reports.
+
+---
+
+## 🎯 Design Goals  
+- Ensure **high readability for data-heavy screens**  
+- Maintain **clear visual hierarchy**  
+- Improve **user experience through consistent spacing**  
+- Support **responsive and accessible design**  
+
+---
+
+## 🔤 Typography System  
+
+### 🔹 Font Selection  
+
+- **Primary Typeface – Inter**  
+  - Optimized for digital screens  
+  - High readability with open letterforms  
+  - Ideal for dashboards and UI-heavy interfaces  
+
+- **Alternative Typeface – Source Sans Pro**  
+  - Clean and professional  
+  - Suitable for corporate environments  
+
+- **Monospace Typeface – IBM Plex Mono**  
+  - Used for tables, IDs, and technical data  
+  - Ensures proper alignment of numbers and values  
+
+---
+
+### 🔹 Type Scale & Hierarchy  
+
+- Based on **Modular Scale (1.25 / 1.333 ratio)**  
+
+| Type | Usage |
+|------|------|
+| H1 – H4 | Section headings, titles |
+| Body (16px) | Main content text |
+| Caption (12–14px) | Supporting text |
+| Small (10–12px) | Metadata, labels |
+
+- Ensures **clear hierarchy and easy scanning**  
+
+---
+
+### 🔹 Typography Properties  
+
+- **Font Weights**  
+  - Regular (400) → Body text  
+  - Medium (500) → Labels, UI elements  
+  - Bold (600/700) → Headings  
+
+- **Line Height**  
+  - Body: ~1.5× font size (better readability)  
+  - Headings: ~1.1–1.2× (compact and strong)  
+
+- **Letter Spacing**  
+  - Increased for small text and labels  
+  - Reduced for large headings  
+
+---
+
+### 🔹 Data & Functional Styles  
+
+#### 📊 Data Table Styles (IBM Plex Mono)
+
+| Style | Size | Weight | Usage |
+|------|------|--------|------|
+| Mono/Bold-Label | 14px | 600 | Table headers |
+| Mono/Regular-Data | 14px | 400 | Data values |
+| Mono/Regular-Small | 12px | 400 | Metadata |
+| Mono/Medium-Utility | 11px | 500 | Status tags |
+
+- Ensures **alignment and clarity in tabular data**  
+
+---
+
+### 🔹 Figma Typography Structure  
+
+- Organized using **Design Tokens**  
+
+- **Primitive Tokens** → Font size, weight, spacing  
+- **Semantic Tokens** → Heading, Body, Label, Caption  
+
+- Naming convention:
+  - `Heading / H1`
+  - `Body / Regular`
+  - `Mono / Table-Data`
+
+---
+
+## 📐 Spacing & Grid System  
+
+### 🔹 Spacing Scale  
+
+- Based on **4pt / 8pt system**  
+
+| Token | Value |
+|------|------|
+| XS | 4px |
+| SM | 8px |
+| MD | 16px |
+| LG | 24px |
+| XL | 32px |
+| XXL | 48px |
+| XXXL | 64px |
+
+- Maintains **consistent spacing across UI components**  
+
+---
+
+### 🔹 Layout Grid  
+
+- **Desktop:** 12-column grid  
+- **Mobile:** 4-column grid  
+
+- Ensures:
+  - Proper alignment  
+  - Responsive layouts  
+  - Scalable design system  
+
+---
+
+## ♿ Accessibility Considerations  
+
+- ✅ Maintain **WCAG contrast ratio (4.5:1)**  
+- ✅ Minimum body text size **16px**  
+- ✅ Support **text scaling up to 200%**  
+- ✅ Avoid using too many font styles (reduces clutter)  
+- ✅ Ensure readability on all screen sizes  
+
+---
+
+## 🧠 Design Approach  
+- Focus on **readability and structured layouts**  
+- Designed for **data-heavy user interfaces**  
+- Consistent typography and spacing system  
+- Supports **responsive design (Desktop + Mobile)**  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma File  
+[View Typography & Spacing System](https://www.figma.com/design/8gKNEwoV0P9eA6vMK0wnCm/Design-System---DTMP?node-id=0-1&t=VmzWymxLAEtvl8QM-1)
+
+---
+
+## 📌 Summary  
+
+| Element | System Used | Purpose |
+|--------|------------|--------|
+| Typography | Inter, IBM Plex Mono | Readability & hierarchy |
+| Type Scale | Modular Scale | Visual consistency |
+| Spacing | 4pt / 8pt grid | Layout structure |
+| Grid | 12-col / 4-col | Responsive design |
+
+---
