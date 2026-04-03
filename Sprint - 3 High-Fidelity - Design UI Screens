@@ -1,0 +1,109 @@
+# 🔐 Authentication UI Screens – Digital Talent Management System  
+
+## 💻 Overview  
+The authentication screens are designed to provide a **secure, seamless, and user-friendly experience** for accessing the platform. These screens ensure smooth onboarding and account recovery for users.
+
+---
+
+## 🎯 Design Goals  
+- Provide **secure and reliable authentication flow**  
+- Ensure **easy navigation for users**  
+- Reduce friction in **login and password recovery**  
+- Maintain **clean and minimal UI design**  
+
+---
+
+## 🖥️ Screens Designed  
+
+### 🔹 Login Screen  
+- User login with **email and password**  
+- Clear input fields with validation  
+- Option to navigate to **Forgot Password**  
+- Clean and minimal interface for quick access  
+
+---
+
+### 🔹 Setup Screen  
+- Initial account setup for new users  
+- Collect basic details (name, password, etc.)  
+- Guided onboarding experience  
+- Ensures proper account configuration  
+
+---
+
+### 🔹 Forgot Password Screen  
+- Allows users to request password reset  
+- Input field for registered email  
+- Clear instructions for recovery process  
+
+---
+
+### 🔹 Verify Code Screen  
+- Enter OTP / verification code  
+- Ensures secure identity verification  
+- Simple and focused UI for quick input  
+
+---
+
+### 🔹 Set New Password Screen  
+- Create and confirm new password  
+- Password validation (strength, match check)  
+- Secure reset flow completion  
+
+---
+
+## 🔄 User Flow  
+
+1. Login → Click **Forgot Password**  
+2. Enter Email → Receive Verification Code  
+3. Verify Code → Access Reset Screen  
+4. Set New Password → Redirect to Login  
+
+- Ensures a **smooth and secure recovery process**  
+
+---
+
+## 📱 Responsive Design  
+- Optimized for both **desktop and mobile**  
+- Simple layouts for smaller screens  
+- Touch-friendly input fields and buttons  
+
+---
+
+## ♿ Accessibility Considerations  
+- ✅ Clear labels and input fields  
+- ✅ Proper contrast for readability  
+- ✅ Error messages with guidance  
+- ✅ Easy navigation across all steps  
+
+---
+
+## 🧠 Design Approach  
+- Focus on **simplicity and usability**  
+- Minimal UI to reduce user confusion  
+- Step-by-step flow for better experience  
+- Consistent with overall design system  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma File  
+[View Authentication Screens](https://www.figma.com/design/8gKNEwoV0P9eA6vMK0wnCm/RynixSoft---DTMP?node-id=0-1&t=lOrbvUtOjAte2w1Z-1)
+
+---
+
+## 📌 Summary  
+
+| Screen | Purpose |
+|--------|--------|
+| Login | Secure user access |
+| Setup | New user onboarding |
+| Forgot Password | Initiate recovery |
+| Verify Code | Identity verification |
+| Set New Password | Reset credentials |
+
+---
