@@ -1,0 +1,137 @@
+# 🧑‍💼 HR Admin & Employee UI Screens – Digital Talent Management System  
+
+## 💻 Overview  
+These UI screens are designed to support **role-based access and workflows** for both HR Admin and Employees. The designs ensure efficient task management, data visibility, and smooth interaction across desktop and mobile platforms.
+
+---
+
+## 🎯 Design Goals  
+- Enable **role-based user experience**  
+- Provide **efficient task and data management**  
+- Ensure **consistency across desktop and mobile**  
+- Maintain **clean and minimal UI design**  
+
+---
+
+## 👤 HR Admin Screens  
+
+### 💻 Desktop Screens  
+The HR Admin has full access to manage system-wide operations.
+
+#### 🔹 Screens Designed  
+- 📊 **Dashboard**  
+  - Overview of key metrics and activities  
+  - Quick insights into system performance  
+
+- 📋 **Task Management**  
+  - Create, assign, and track tasks  
+  - Monitor task status and progress  
+
+- 👥 **Directory**  
+  - View and manage employee records  
+  - Search and filter user data  
+
+- ✅ **Approval**  
+  - Approve or reject requests  
+  - Manage workflows and decisions  
+
+- 🛠️ **Admin Panel**  
+  - Manage users, roles, and system settings  
+  - Full control over platform configuration  
+
+---
+
+### 📱 Mobile Screens  
+Optimized for quick access and on-the-go management.
+
+#### 🔹 Screens Designed  
+- 📊 **Dashboard (Mobile)**  
+  - Simplified overview of metrics  
+  - Easy navigation and quick insights  
+
+- 📋 **Tasks (Mobile)**  
+  - View and update task status  
+  - Quick actions for efficiency  
+
+- 👥 **Directory (Mobile)**  
+  - Access employee data  
+  - Search and basic management  
+
+- ✅ **Approval (Mobile)**  
+  - Approve/reject requests quickly  
+  - Real-time updates  
+
+- 🛠️ **Admin Panel (Mobile)**  
+  - Limited admin controls  
+  - Quick user and system actions  
+
+---
+
+## 👨‍💻 Employee Screens  
+
+### 💻 Desktop (Website)  
+
+#### 🔹 Screens Designed  
+- 📊 **Dashboard**  
+  - View personal performance and updates  
+  - Quick overview of assigned tasks  
+
+- 📋 **Tasks**  
+  - View assigned tasks  
+  - Update progress and mark completion  
+
+---
+
+### 📱 Mobile  
+
+#### 🔹 Screens Designed  
+- 📊 **Dashboard (Mobile)**  
+  - Quick overview of tasks and updates  
+  - Simplified and user-friendly interface  
+
+---
+
+## 🔄 Role-Based Experience  
+
+- **HR Admin** → Full system control and management  
+- **Employee** → Limited access focused on personal tasks and data  
+
+- Ensures **clear separation of responsibilities**  
+
+---
+
+## 📱 Responsive Design  
+- Designed for both **desktop and mobile platforms**  
+- Optimized layouts for different screen sizes  
+- Touch-friendly components for mobile users  
+
+---
+
+## 🧠 Design Approach  
+- Focus on **usability and role-based workflows**  
+- Minimal and clean UI design  
+- Consistent design system across all screens  
+- Supports scalability and future enhancements  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma File  
+[View HR Admin & Employee Screens](https://www.figma.com/design/8gKNEwoV0P9eA6vMK0wnCm/RynixSoft---DTMP?node-id=0-1&t=GYfj1nkoGzrO1wkS-1)
+
+---
+
+## 📌 Summary  
+
+| Role | Platform | Screens |
+|------|---------|--------|
+| HR Admin | Desktop | Dashboard, Tasks, Directory, Approval, Admin Panel |
+| HR Admin | Mobile | Dashboard, Tasks, Directory, Approval, Admin Panel |
+| Employee | Desktop | Dashboard, Tasks |
+| Employee | Mobile | Dashboard |
+
+---
