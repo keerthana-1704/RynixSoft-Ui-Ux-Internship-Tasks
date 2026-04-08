@@ -1,0 +1,96 @@
+# 🔗 Prototype – Digital Talent Management System  
+
+## 💻 Overview  
+The prototype demonstrates the **navigation flow and screen connections** across the Digital Talent Management System. It provides a clear understanding of how users interact with the platform across different roles and devices.
+
+---
+
+## 🎯 Design Goals  
+- Visualize **user flow and navigation structure**  
+- Ensure smooth transitions between screens  
+- Validate **role-based interactions**  
+- Prepare for full interactive prototyping  
+
+---
+
+## 👥 User Roles Covered  
+
+- **HR Admin** → Full system navigation  
+- **Team Manager** → Task and team flow navigation  
+- **Employee** → Task and personal dashboard navigation  
+
+---
+
+## 🖥️ Desktop Prototype  
+
+### 🔹 Screens Connected  
+- 📊 Dashboard  
+- 📋 Task Management  
+- 👥 Directory  
+- ✅ Approval  
+- 🛠️ Admin Panel  
+
+- Covers **end-to-end navigation flow** for all roles  
+
+---
+
+## 📱 Mobile Prototype  
+
+### 🔹 Screens Connected  
+- 📊 Dashboard  
+- 📋 Tasks  
+- 👥 Directory  
+- ✅ Approval  
+- 🛠️ Admin Panel  
+
+- Optimized for **mobile navigation experience**  
+
+---
+
+## 🔄 Prototype Scope  
+
+- ✅ Screen-to-screen navigation completed  
+- ✅ Basic user flow mapping implemented  
+- ⏳ Interactive elements (in progress):  
+  - Buttons  
+  - Icons  
+  - Micro-interactions  
+  - Animations  
+
+---
+
+## ⚡ Current Status  
+
+- Prototype is in a **mid-fidelity interaction stage**  
+- Focused on **structure and navigation flow**  
+- Visual and interaction enhancements are ongoing  
+
+---
+
+## 🧠 Design Approach  
+- Prioritized **user journey and flow clarity**  
+- Built navigation before adding interactions  
+- Ensures scalable and structured prototyping process  
+
+---
+
+## 🛠️ Tools Used  
+- Figma  
+
+---
+
+## 🔗 Figma Prototype  
+[View Prototype](https://www.figma.com/design/8gKNEwoV0P9eA6vMK0wnCm/RynixSoft---DTMP?node-id=0-1&t=iOH3aqGQTtjegJBZ-1)
+
+---
+
+## 📌 Summary  
+
+| Aspect | Status |
+|--------|--------|
+| Screen Navigation | ✅ Completed |
+| User Flow | ✅ Completed |
+| Buttons & Icons | ⏳ In Progress |
+| Animations | ⏳ Not Implemented |
+
+---
